@@ -5,6 +5,7 @@
 body
 {
     font-family: 'Titillium Web', sans-serif;
+    background-color: red;
 
 }
 .image_jishnu
@@ -25,14 +26,14 @@ body
 
 }
 a{
-
+    list-style: none;
 }
 .footer_link_style
 {
     height: 15px;
     width: 15px;
-    margin-left: 7px;   
-    margin-right: 7px;
+    margin-left: 8px;   
+    margin-right: 8px;
 
 }
 .mail
@@ -40,7 +41,7 @@ a{
     font-size: 14px;
     margin-top: 10px;
     padding: 0;
-    color:lightgray;
+    color:darkgrey;
     font-weight: 100;
 }
 .stop
@@ -50,7 +51,7 @@ a{
 .conclusion
 {
     font-size: 12px;  
-    color: lightgrey;
+    color:darkgrey;
     font-weight: 100;
 }
 .dots
